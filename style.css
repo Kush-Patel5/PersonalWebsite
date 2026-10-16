@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+body h2 {
+    text-align: center;
+    font-size: 40px;
+}
+body h3 {
+    font-size: 25px;
+    margin-bottom: -25px;
+}
+body p {
+    font-size: 25px;
+}
+body li {
+    text-align: center;
+    font-size: 25px;
+}
+
+header {
+    text-align: center;
+}
+#site-name a {
+    text-decoration: none;
+    color: green;
+    font-size: 40px;
+}
+#navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+.inline-element {
+    display: inline-block;
+    padding-inline: 5%;
+    background-color:aquamarine;
+}
